@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![GitHub Streak](https://aaron-github-streak.vercel.app?user=aaronzshey&theme=ambient-gradient&hide_border=true&border_radius=25)](https://git.io/streak-stats)
+
 | I've been coding for a long time now. | Here's what I've learned!  |   |   |   
 |---|---|---|---|
 |<figure><img height="50px" src="./blender-original.svg"></img><br /><figcaption>Blender, a software so good they made real life blenders </figcaption></figure>|   |  |   |  
@@ -30,7 +32,7 @@ Here are some ideas to get you started:
 |   |   | <figure><img height="50px" src="./typescript-original.svg"></img><br /><figcaption>TypeScript, when you don't want to multiply strings with arrays</figcaption></figure>   |   |  
 |   |  <figure><img height="50px" src="./vercel-original.svg"></img><br /><figcaption>Vercel.  It's free</figcaption></figure> |   |   |   
 
-[![GitHub Streak](https://aaron-github-streak.vercel.app?user=aaronzshey&theme=ambient-gradient&hide_border=true&border_radius=25)](https://git.io/streak-stats)
+
 
 
 icons from devicon!          
