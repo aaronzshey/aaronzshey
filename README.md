@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![GitHub Streak](https://aaron-github-streak.vercel.app?user=aaronzshey)](https://git.io/streak-stats)
+[![GitHub Streak](https://aaron-github-streak.vercel.app?user=aaronzshey&theme=ambient-gradient&hide_border=true&border_radius=25)](https://git.io/streak-stats)
 
 
 <img height="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
