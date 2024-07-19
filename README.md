@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
+[![GitHub Streak](https://aaron-github-streak.vercel.app?user=aaronzshey)](https://git.io/streak-stats)
 
-<img height="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+
+<img height="100px" width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
           
