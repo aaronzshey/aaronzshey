@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-|<figure><img height="50px" src="./blender-original.svg"></img><br /><figcaption>Blender, a software so good they made real life blenders </figcaption></figure>|   |  |   |  |
-|   |  <figure><img height="50px" src="./cplusplus-original.svg"></img><figcaption>C++, just for school</figcaption></figure> |   |   |   |
-|   |   |  <figure><img height="50px" src="./hardhat-original.svg"></img><figcaption>Hardhat, a fun way to give yourself a million Ethereum</figcaption></figure> |   |   |
-|   |   |   |  <figure><img height="50px" src="./nextjs-original.svg"></img><figcaption>Next.js, because everything should be wrapped in a Suspense tag</figcaption></figure> |   |
-|   |   | <figure><img height="50px" src="./nodejs-original.svg"></img><figcaption>Node.js.  Everyone knows this</figcaption></figure>   |  |   |
-|   |  <figure><img height="100px" src="./pulsar-original.svg"></img><figcaption>Pulsar, the BEST IDE EVER!</figcaption></figure> |   |   |   |
-|  <figure><img height="50px" src="./react-original.svg"></img><figcaption>React, the only thing Facebook did right</figcaption></figure>  |   |   |   |   |
-|   | <figure><img height="50px" src="./rust-original.svg"></img><figcaption>Rust, a unique language with a unique method of making you want to die </figcaption></figure>  |   |   |   |
-|   |   |  <figure><img height="50px" src="./solidity-original.svg"></img><figcaption>Solidity, an easy to write language that's hard to use </figcaption></figure> |   |   |
+|<figure><img height="50px" src="./blender-original.svg"></img><br /><figcaption>Blender, a software so good they made real life blenders </figcaption></figure>|   |  |   |  
+|   |  <figure><img height="50px" src="./cplusplus-original.svg"></img><figcaption>C++, just for school</figcaption></figure> |   |   |   
+|   |   |  <figure><img height="50px" src="./hardhat-original.svg"></img><figcaption>Hardhat, a fun way to give yourself a million Ethereum</figcaption></figure> |   |   
+|   |   |   |  <figure><img height="50px" src="./nextjs-original.svg"></img><figcaption>Next.js, because everything should be wrapped in a Suspense tag</figcaption></figure> |   
+|   |   | <figure><img height="50px" src="./nodejs-original.svg"></img><figcaption>Node.js.  Everyone knows this</figcaption></figure>   |  |   
+|   |  <figure><img height="100px" src="./pulsar-original.svg"></img><figcaption>Pulsar, the BEST IDE EVER!</figcaption></figure> |   |   |   
+|  <figure><img height="50px" src="./react-original.svg"></img><figcaption>React, the only thing Facebook did right</figcaption></figure>  |   |   |   |   
+|   | <figure><img height="50px" src="./rust-original.svg"></img><figcaption>Rust, a unique language with a unique method of making you want to die </figcaption></figure>  |    |   |
+|   |   |  <figure><img height="50px" src="./solidity-original.svg"></img><figcaption>Solidity, an easy to write language that's hard to use </figcaption></figure> |   |   
 |   |   |   |  <figure><img height="50px" src="./tailwindcss-original.svg"></img><figcaption>TailwindCSS, a good way to make your code easier and harder to read at the same time</figcaption></figure> |  |
 |   |   | <figure><img height="50px" src="./typescript-original.svg"></img><figcaption>TypeScript, when you don't want to multiply strings with arrays</figcaption></figure>   |   |  |
 |   |  <figure><img height="50px" src="./vercel-original.svg"></img><figcaption>Vercel.  It's free</figcaption></figure> |   |   |   |
