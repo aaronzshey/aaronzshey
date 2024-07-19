@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-|   |   |   |   |   |
-|---|---|---|---|---|
+|   |   |   |   |   
+|---|---|---|---|
 |<figure><img height="50px" src="./blender-original.svg"></img><br /><figcaption>Blender, a software so good they made real life blenders </figcaption></figure>|   |  |   |  
 |   |  <figure><img height="50px" src="./cplusplus-original.svg"></img><figcaption>C++, just for school</figcaption></figure> |   |   |   
 |   |   |  <figure><img height="50px" src="./hardhat-original.svg"></img><figcaption>Hardhat, a fun way to give yourself a million Ethereum</figcaption></figure> |   |   
