@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-|   |   |   |   |   
+| I've been coding for a long time now. | Here's what I've learned!  |   |   |   
 |---|---|---|---|
 |<figure><img height="50px" src="./blender-original.svg"></img><br /><figcaption>Blender, a software so good they made real life blenders </figcaption></figure>|   |  |   |  
 |   |  <figure><img height="50px" src="./cplusplus-original.svg"></img><figcaption>C++, just for school</figcaption></figure> |   |   |   
