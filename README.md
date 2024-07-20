@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/aaron-z-shey/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 
-[![GitHub Streak](https://aaron-github-streak.vercel.app?user=aaronzshey&theme=ambient-gradient&hide_border=true&border_radius=25)](https://git.io/streak-stats)
-
 | Hey there!  Thanks for stopping by. | I've been coding for a couple years by now...  | Here's what I've learned or used, in no particular order! |  Have fun reading! |   
 |---|---|---|---|
 |<figure><img height="50px" src="./blender-original.svg"></img><br /><figcaption>Blender, a software so good they made real life blenders </figcaption></figure>|   |  |   |  
@@ -35,6 +33,7 @@ Here are some ideas to get you started:
 |   |  <figure><img height="50px" src="./vercel-original.svg"></img><br /><figcaption>Vercel.  It's free</figcaption></figure> |   |   |   
 
 
+[![GitHub Streak](https://aaron-github-streak.vercel.app?user=aaronzshey&theme=ambient-gradient&hide_border=true&border_radius=25)](https://git.io/streak-stats)
 
 
 icons from devicon!          
