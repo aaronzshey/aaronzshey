@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://aaron-github-streak.vercel.app?user=aaronzshey&theme=ambient-gradient&hide_border=true&border_radius=25)](https://git.io/streak-stats)
 
-| I've been coding for a long time now. | Here's what I've learned!  |   |   |   
+| Hey there!  Thanks for stopping by. | I've been coding for a couple years by now...  | Here's what I've learned or used, in no particular order! |  Have fun reading! |   
 |---|---|---|---|
 |<figure><img height="50px" src="./blender-original.svg"></img><br /><figcaption>Blender, a software so good they made real life blenders </figcaption></figure>|   |  |   |  
 |   |  <figure><img height="50px" src="./cplusplus-original.svg"></img><br /><figcaption>C++, just for school</figcaption></figure> |   |   |   
