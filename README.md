@@ -37,6 +37,18 @@ Here are some ideas to get you started:
 
 My skills:
 
-JavaScript: <img src="fiftypercent.svg"></img>
+<pre>
+JavaScript:
+<img src="ninetypercent.svg"></img>
+C++: 
+<img src="seventyfivepercent.svg"></img>
+Rust:       
+<img src="fiftypercent.svg"></img>
+Web3:
+<img src="tenpercent.svg"></img>
+
+
+</pre>
+
 
 icons from devicon!          

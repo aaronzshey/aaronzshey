@@ -9,11 +9,11 @@
 
 		@keyframes mymove {
 							from {
-								width: 50px;
+								width: 0px;
 							}
 
 							to {
-								width: 250px;
+								width: 50px;
 							}
 						}
 
@@ -58,7 +58,7 @@
 			</style>
 			<div class="wrapper"></div>
 			<div class="bar">
-			  <div class="percentage">50%</div>
+			  <div class="percentage">10%</div>
 			</div>
 
 		</div>
