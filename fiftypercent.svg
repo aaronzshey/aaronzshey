@@ -23,7 +23,7 @@
 					display: flex;
 				}
 				div.one {
-					height: 20px;
+					height: 15px;
 					width: 500px;
 					background: gray;
 					border-radius: 20px;
@@ -32,7 +32,7 @@
 				}
 
 				div.two {
-					height: 20px;
+					height: 15px;
 					width: 50px;
 					background: lightgreen;
 					border-radius: 20px;
@@ -40,7 +40,7 @@
 					z-index: 10;
 					transition: 1.5s;
 					animation: mymove 1.5s 1 forwards;
-					font-family: avenir;
+					font-family: "Mona Sans", avenir;
 					font-weight: bold;
 				}
 
@@ -51,7 +51,6 @@
 
 
 			</style>
-
 			<div class="one"></div>
 			<div class="two"><div class="three" align="center">50%</div></div>
 
