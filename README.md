@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://aaron-github-streak.vercel.app?user=aaronzshey&theme=ambient-gradient&hide_border=true&border_radius=25)](https://git.io/streak-stats)
 
 My skills:
+
 JavaScript: <img src="fiftypercent.svg"></img>
 
 icons from devicon!          
