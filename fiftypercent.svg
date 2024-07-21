@@ -30,8 +30,7 @@
 						div.wrapper {
 							height: 20px;
 							width: 500px;
-							background: transparent;
-							border-radius: 20px;
+							background: rgb(246, 248, 250);
 							position: absolute;
 							z-index: -1;
 						}
