@@ -46,8 +46,6 @@ Rust:
 <img src="progressbars/fiftypercent.svg"></img>
 Web3:
 <img src="progressbars/tenpercent.svg"></img>
-
-
 </pre>
 
 
