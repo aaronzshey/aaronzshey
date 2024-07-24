@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 |   |  <figure><img height="50px" src="./icons/vercel-original.svg"></img><br /><figcaption>Vercel.  It's free</figcaption></figure> |   |   |   
 
 
-<img src="https://aaronzshey-readme-stats.vercel.app/api?username=aaronzshey&show_icons=true&theme=ambient_gradient&border_radius=0"></img><img src="https://aaronzshey-readme-stats.vercel.app/api?username=aaronzshey&show_icons=true&theme=ambient_gradient&hide_border=trueborder_radius=0"></img>
+<img src="https://aaronzshey-readme-stats.vercel.app/api?username=aaronzshey&show_icons=true&theme=ambient_gradient&border_radius=0"></img><img src="https://aaron-github-streak.vercel.app?user=aaronzshey&theme=ambient-gradient&hide_border=true&border_radius=0"></img>
 
 My skills:
 <pre>
