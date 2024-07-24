@@ -33,9 +33,11 @@ Here are some ideas to get you started:
 |   |  <figure><img height="50px" src="./icons/vercel-original.svg"></img><br /><figcaption>Vercel.  It's free</figcaption></figure> |   |   |   
 
 
-![GitHub Streak](https://aaron-github-streak.vercel.app?user=aaronzshey&theme=ambient-gradient&hide_border=true&border_radius=25)(https://git.io/streak-stats)![GitHub Stats](https://aaronzshey-readme-stats.vercel.app/api?username=aaronzshey&show_icons=true&theme=ambient_gradient&border_radius=25)
-My skills:
+![GitHub Streak](https://aaron-github-streak.vercel.app?user=aaronzshey&theme=ambient-gradient&hide_border=true&border_radius=25)(https://git.io/streak-stats)
+![GitHub Stats](https://aaronzshey-readme-stats.vercel.app/api?username=aaronzshey&show_icons=true&theme=ambient_gradient&border_radius=25)
 
+
+My skills:
 <pre>
 JavaScript:
 <img src="progressbars/ninetypercent.svg"></img>
