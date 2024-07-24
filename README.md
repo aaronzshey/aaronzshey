@@ -32,9 +32,10 @@ Here are some ideas to get you started:
 |   |   | <figure><img height="50px" src="./icons/typescript-original.svg"></img><br /><figcaption>TypeScript, when you don't want to multiply strings with arrays</figcaption></figure>   |   |  
 |   |  <figure><img height="50px" src="./icons/vercel-original.svg"></img><br /><figcaption>Vercel.  It's free</figcaption></figure> |   |   |   
 
-
+<div style="display: flex; flex-direction: row;">
 <img align="center" src="https://aaronzshey-readme-stats.vercel.app/api?username=aaronzshey&show_icons=true&theme=ambient_gradient_reverse&border_radius=0hide_border=true"></img><img align="center" src="https://aaron-github-streak.vercel.app?user=aaronzshey&theme=ambient-gradient&border_radius=0&hide_border=true"></img>
-
+<div>
+  
 My skills:
 <pre>
 JavaScript:
