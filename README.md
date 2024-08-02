@@ -49,5 +49,7 @@ Web3:
 <img src="progressbars/tenpercent.svg"></img>
 </pre>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph-fawn.vercel.app/graph?username=aaronzshey)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 icons from devicon!          
