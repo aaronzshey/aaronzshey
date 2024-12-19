@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 |   |   |  <figure><img height="50px" src="./icons/hardhat-original.svg"></img><br /><figcaption>Hardhat, a fun way to give yourself a million Ethereum</figcaption></figure> |   |   
 |   |   |   |  <figure><img height="50px" src="./icons/nextjs-original.svg"></img><br /><figcaption>Next.js, because everything should be wrapped in a Suspense tag</figcaption></figure> |   
 |   |   | <figure><img height="50px" src="./icons/nodejs-original.svg"></img><br /><figcaption>Node.js.  Everyone knows this</figcaption></figure>   |  |   
-|   |  <figure><img height="100px" src="./icons/pulsar-original.svg"></img><br /><figcaption>Pulsar, the BEST IDE EVER!</figcaption></figure> |   |   |   
+|   |  free space! |   |   |   
 |  <figure><img height="50px" src="./icons/react-original.svg"></img><br /><figcaption>React, the only thing Facebook did right</figcaption></figure>  |   |   |   |   
 |   | <figure><img height="50px" src="./icons/rust-original.svg"></img><br /><figcaption>Rust, a unique language with a unique method of making you want to die </figcaption></figure>  |    |   |
 |   |   |  <figure><img height="50px" src="./icons/solidity-original.svg"></img><br /><figcaption>Solidity, an easy to write language that's hard to use </figcaption></figure> |   |   
